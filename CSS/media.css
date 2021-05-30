@@ -1,0 +1,49 @@
+    @media (max-width: 1000px) {
+        .family {
+            font-size: 34px;
+        }
+        .intro {
+            font-size: 16px;
+        }
+        .nav
+        {
+            position: absolute;
+        }
+    }
+    
+    @media (min-width:768px) and (max-width:992px) {
+        .col {
+            width: 50%;
+        }
+        .col2 {
+            padding-bottom: 10px;
+        }
+        .cookies {
+            width: 50%;
+        }
+    }
+    
+    @media screen and (max-width:767px) {
+        .bread {
+            width: 100%;
+        }
+        .location {
+            width: 100%;
+        }
+        .full {
+            width: 100%;
+        }
+        .col {
+            width: 100%;
+        }
+        .cookies {
+            width: 100%;
+        }
+    }
+    
+    @media (max-width: 768px) {
+        .btn {
+            font-size: 14px;
+            padding: 10px 17px;
+        }
+    }
